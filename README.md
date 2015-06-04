@@ -1,3 +1,22 @@
+About this fork:
+
+There seemed to be far too many dependencies being fetched with the regular `package.json`.  
+Simplified it a lot so it works with no frills.
+
+To install do:
+
+    [sudo] npm install
+
+To run:
+
+	node ./src/index.js
+	
+To change the parameters of the network edit the config file.
+
+
+-------
+
+
 webrtc-explorer Signalling Server
 ==============================
 
